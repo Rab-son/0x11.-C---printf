@@ -5,13 +5,12 @@ alx-pair-project
 
 -   By Rabson Sayenda and Kondwani Kamundi
 
-
 Background Context
 ------------------
 
 Write your own `printf` function.
 
-
+----------------
 Requirements
 ------------
 
